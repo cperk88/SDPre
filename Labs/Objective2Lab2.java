@@ -1,13 +1,10 @@
 public class Objective2Lab2 {
   public static void main(String[] args){
-    String name = "Chris Perkins";
+    String name = "Chris";
     int age = 32;
     String state = "Georgia";
 
-    System.out.println(name);
-    System.out.println(age);
-    System.out.println(state);
-
+    System.out.println("Name: " + name + " Age: " + age + " State: " + state);
 
   }
 }
